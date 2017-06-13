@@ -1,0 +1,13 @@
+bord
+block_size
+SmartPointer
+new
+digest_size
+c_size_t
+load_pycryptodome_raw_lib
+VoidPointer
+expect_byte_string
+create_string_buffer
+MD4Hash
+get_raw_buffer
+_raw_md4_lib

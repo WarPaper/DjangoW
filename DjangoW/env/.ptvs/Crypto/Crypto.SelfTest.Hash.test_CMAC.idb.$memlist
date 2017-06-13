@@ -1,0 +1,11 @@
+MultipleUpdates
+CMAC
+suite
+get_tag_random
+AES
+tobytes
+SHAKE128
+DES3
+get_tests
+test_data
+unittest

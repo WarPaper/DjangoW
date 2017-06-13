@@ -1,0 +1,16 @@
+sys
+new
+BytesIO
+b
+unhexlify
+binascii
+byte_string
+bord
+ValueError
+bchr
+bstr
+hexlify
+tostr
+False
+maxint
+tobytes

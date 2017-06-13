@@ -1,0 +1,14 @@
+_raw_chacha20_lib
+ChaCha20Cipher
+key_size
+VoidPointer
+expect_byte_string
+get_random_bytes
+create_string_buffer
+get_raw_buffer
+new
+load_pycryptodome_raw_lib
+c_ulong
+block_size
+c_size_t
+SmartPointer

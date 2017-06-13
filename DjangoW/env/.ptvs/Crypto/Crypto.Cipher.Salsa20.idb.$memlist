@@ -1,0 +1,13 @@
+Salsa20Cipher
+_raw_salsa20_lib
+VoidPointer
+get_random_bytes
+c_size_t
+create_string_buffer
+get_raw_buffer
+new
+load_pycryptodome_raw_lib
+key_size
+block_size
+expect_byte_string
+SmartPointer

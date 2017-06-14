@@ -26,7 +26,9 @@ SECRET_KEY = '8a34df86-da3c-46b3-9891-c3e1780bf95e'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["webdjan.azurewebsites.net","*"]
+ALLOWED_HOSTS = ["*"]
+#ALLOWED_HOSTS = ['webdjan.azurewebsites.net']
+#ALLOWED_HOSTS = ['localhost']
 
 
 # Application definition
@@ -123,4 +125,5 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
-STATIC_ROOT = posixpath.join(*(BASE_DIR.split(os.path.sep) + ['static']))
+#STATIC_ROOT = posixpath.join(*(BASE_DIR.split(os.path.sep) + ['static']))
+STATIC_ROOT = 'D:/home/site/wwwroot/app/static/'
